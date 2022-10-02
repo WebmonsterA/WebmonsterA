@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WebmonsterA
 - 👀 I’m interested in [**JSON TECH CV**](https://github.com/WebmonsterA/json-schema-resume-tech)
 - 🌱 I’m currently learning **RUST**
-- 💞️ I’m looking to collaborate on [**PIMENT CSS***](https://pimentcss.webmonster.tech/)
+- 💞️ I’m looking to collaborate on [**PIMENT CSS**](https://pimentcss.webmonster.tech/)
 - 📫 How to reach me **hello@webmonster.tech**
 
 <!---
